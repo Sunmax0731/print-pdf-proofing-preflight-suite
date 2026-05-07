@@ -1,0 +1,7 @@
+{
+  "id": "print-pdf-proofing-preflight-suite",
+  "name": "印刷・PDF・校正プリフライトスイート",
+  "host": "Acrobat",
+  "version": "0.1.0",
+  "entry": "src/main.jsx"
+}
