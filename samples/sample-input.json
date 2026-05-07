@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "print-pdf-proofing-preflight-suite",
+    "title": "印刷・PDF・校正プリフライトスイート"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "印刷・PDF・校正プリフライトスイート 正常ケース",
+      "source": "source-ok",
+      "pdfPath": "pdfPath-ok",
+      "checkProfile": "checkProfile-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "accessibilityNote": "ready"
+    }
+  ]
+}

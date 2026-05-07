@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AdobePlugin\\created_idea_004_print-pdf-proofing-preflight-suite",
+  "zip": "D:\\AI\\AdobePlugin\\created_idea_004_print-pdf-proofing-preflight-suite\\idea_004_print-pdf-proofing-preflight-suite.zip",
+  "rank": 28,
+  "domain": "AdobePlugin",
+  "ideaNo": 4,
+  "title": "印刷・PDF・校正プリフライトスイート",
+  "overview": "ベクター入稿、多ページ差分、PDFプリフライト、アクセシビリティ検査を一連化し、リンク、フォント、塗り足し、ページ差分、タグ構造を確認する。",
+  "problem": "印刷物やPDF公開物は確認点がアプリごとに分かれ、入稿直前に不備が見つかりやすい。",
+  "differentiation": "制作データ、PDF、校正コメントを同じチェックリストで扱う。"
+}
