@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.print-pdf-proofing-preflight-suite",
+  "name": "印刷・PDF・校正プリフライトスイート",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Acrobat",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "印刷・PDF・校正プリフライトスイート",
+      "mainPath": "panel.html"
+    }
+  ]
+}

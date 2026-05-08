@@ -1,0 +1,11 @@
+{
+  "product": "print-pdf-proofing-preflight-suite",
+  "title": "印刷・PDF・校正プリフライトスイート",
+  "domain": "AdobePlugin",
+  "ideaNo": 4,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
